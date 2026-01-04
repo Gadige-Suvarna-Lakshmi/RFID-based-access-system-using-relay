@@ -80,7 +80,7 @@ During my internship , I worked with Arduino and ESP32, learning hardware interf
   It focused on understanding requirements,creating secure system.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/GADIGE-SUVARNA-LAKSHMI-g14-es-and-iot/blob/583a067b0fbfbf9169d87f5632e058e5b92ae882/Course%20report/SUREPROEd_Internship_report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Gadige-Suvarna-Lakshmi/RFID-based-access-system-using-relay/blob/84615865126ac839130474cc72d0cc819694f963/SUREPROEd_Internship_report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
